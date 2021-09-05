@@ -6,7 +6,7 @@ function SecondaryButton({ name }) {
     <SecondaryButtonStyled>
       {name}
 
-      <img src={arrow} />
+      <img src={arrow} alt="arrow-img" />
     </SecondaryButtonStyled>
   );
 }

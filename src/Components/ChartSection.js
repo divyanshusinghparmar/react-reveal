@@ -4,7 +4,7 @@ import ChartStats from "./ChartStats";
 import chart from "../img/chart.svg";
 import AnimatedButton from "./AnimatedButton";
 import { Bounce, Roll } from "react-reveal";
-import RubberBand from "react-reveal/RubberBand";
+
 
 function ChartSection() {
   return (
